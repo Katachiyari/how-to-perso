@@ -1,6 +1,5 @@
-# 40  questions niveau intermédiaires, 
+## 40  questions niveau intermédiaires, 
 
-```markdown
 # 🧠 Quiz Ansible – Niveau intermédiaire (0 → 10)
 
 Projet fil rouge :  

@@ -1,8 +1,6 @@
 # Quizz 40 questions débutant.
 
 ***
-
-```markdown
 # 🧠 Quiz Ansible – Niveau débutant (0 → 10)
 
 Projet fil rouge :  

@@ -1,22 +1,9 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# je préfère consolidé le mode intérmédiaire dans ce cas.
-
-On a le temps de bien apprendre.
-Soyons solide !
-Donc complément d'un questionnaire 20, 30 ou 40 questions (a toi de voir) pour consolider le mode intermédiaire, couvrir les "2–3 briques à consolider"
-
-Tu as raison de vouloir être solide avant de monter d’un cran.
-
-Voici un **complément de 30 questions intermédiaires** (en .md, avec réponses cachées) ciblé sur les 3 briques à consolider :
+##Voici un **complément de 30 questions intermédiaires** ciblé sur les 3 briques à consolider :
 
 - filtres Jinja (listes/dicos),
 - lookups (env, file, password, etc.),
 - inventaires + CI simples.
 
-Toujours dans le même projet fil rouge.
-
-```markdown
 # 🧠 Quiz Ansible – Consolidation intermédiaire (30 questions)
 
 Briques ciblées :
