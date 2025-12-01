@@ -1,0 +1,21 @@
+[ERROR]: Task failed: Action failed: Module result deserialization failed: No start of json char found
+
+Task failed: Action failed.
+Origin: <adhoc 'ping' task>
+
+{'action': 'ping', 'args': {}, 'timeout': 0, 'async_val': 0, 'poll': 15}
+
+<<< caused by >>>
+
+Module result deserialization failed: No start of json char found See stdout/stderr for the returned output.
+
+vm_nginx | FAILED! => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3"
+    },
+    "changed": false,
+    "module_stderr": "Shared connection to 192.168.56.10 closed.\r\n",
+    "module_stdout": "  File \"/home/vagrant/.ansible/tmp/ansible-tmp-1764520798.475399-769936-146581642866191/AnsiballZ_ping.py\", line 3\r\n    from __future__ import annotations\r\n    ^\r\nSyntaxError: future feature annotations is not defined\r\n",
+    "msg": "Module result deserialization failed: No start of json char found",
+    "rc": 1
+}

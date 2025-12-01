@@ -1,0 +1,12 @@
+Running Ansible Syntax Check...
+
+playbook: playbooks/site.yml
+Running Ansible Playbook...
+
+PLAY [Deploy Nginx Web Server] *************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [vm_nginx]
+
+TASK [nginx : Install Nginx] ***************************************************
+[ERROR]: User interrupted execution

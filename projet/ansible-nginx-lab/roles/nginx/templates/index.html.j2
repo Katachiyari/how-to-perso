@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to {{ ansible_hostname }}</title>
+</head>
+<body>
+    <h1>Success! The Nginx server is working!</h1>
+    <p>Deployed by Ansible on {{ ansible_hostname }}.</p>
+    <p>Environment: {{ env_name | default('development') }}</p>
+</body>
+</html>

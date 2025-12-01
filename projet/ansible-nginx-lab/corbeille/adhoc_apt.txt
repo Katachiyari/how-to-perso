@@ -1,0 +1,8 @@
+vm_nginx | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3.8"
+    },
+    "cache_update_time": 1764521014,
+    "cache_updated": true,
+    "changed": false
+}
